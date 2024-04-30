@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">🖥️ Graduado em Design Digital pela FIEO 🎓.
+<P>🖥️ Graduado em Design Digital pela FIEO 🎓.
 
 Sim! Acredito que arte e informação estão interligadas 📊👨‍💻.
 
