@@ -3,7 +3,12 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Academico de Analise e Desenvilvimento de Sistemas pela FADESA passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software.</p>&nbsp;
+<p align="center">🖥️ Graduado em Design Digital pela FIEO 🎓.
+
+Sim! Acredito que arte e informação estão interligadas 📊👨‍💻.
+
+Eu ❤️ resolvo grandes desafios usando tecnologia. Sou acadêmico de Análise e Desenvolvimento de Sistemas pela FADESA 📚🖥️📝🎓, apaixonado por resolver problemas complexos através da tecnologia 💼📊👨‍💻.
+Gosto de equilibrar minha carreira entre habilidades técnicas e gerenciais. Por isso, adquiri experiência liderando projetos e tenho uma constante curiosidade em melhorar continuamente na área da educação 📋🔍📓📉📚.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
