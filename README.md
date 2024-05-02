@@ -11,6 +11,7 @@ Por isso, adquiri experiência liderando projetos e tenho uma constante curiosid
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
+<img src="https://github.com/pablloviana/pablloviana/blob/main/wired-lineal-153-bar-chart.gif />
 
  </div>
  
