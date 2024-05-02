@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer" style="transform: rotate(200deg);"/>
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://raw.githubusercontent.com/pablloviana/pablloviana/main/home.png" />
 &nbsp;&nbsp;&nbsp;
 
@@ -9,8 +8,6 @@ Sim! Acredito que arte e informação estão interligadas 📊👨‍💻.
 - Eu ❤️ resolvo grandes desafios usando tecnologia. Sou acadêmico de Análise e Desenvolvimento de Sistemas pela FADESA 📚🖥️📝🎓, apaixonado por resolver problemas complexos através da tecnologia 💼📊👨‍💻.
 Gosto de equilibrar minha carreira entre habilidades técnicas e gerenciais.
 Por isso, adquiri experiência liderando projetos e tenho uma constante curiosidade em melhorar continuamente na área da educação 📋🔍📓📉📚.</p>&nbsp;
-
-<a href="https://lordicon.com/">Icons by Lordicon.com</a>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
