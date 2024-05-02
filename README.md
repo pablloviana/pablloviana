@@ -10,7 +10,7 @@ Gosto de equilibrar minha carreira entre habilidades técnicas e gerenciais.
 Por isso, adquiri experiência liderando projetos e tenho uma constante curiosidade em melhorar continuamente na área da educação 📋🔍📓📉📚.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
+<img width=55% src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
 
  </div>
  
