@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer" style="transform: rotate(180deg);"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer" style="transform: rotate(200deg);"/>
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://raw.githubusercontent.com/pablloviana/pablloviana/main/home.png" />
 &nbsp;&nbsp;&nbsp;
 
