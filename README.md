@@ -1,5 +1,5 @@
 <div  align="center" style="margin-bottom:50px"> <img width=60% src="https://github-readme-streak-stats.herokuapp.com/?user=pablloviana&theme=dark&hide_border=true" />
- <!-- <img align="center" style="margin-bottom:200px; object-fit: contain" width=100% src="https://raw.githubusercontent.com/pablloviana/pablloviana/main/home.png" />
+ <!-- <img align="center" style="margin-bottom:200px; object-fit: contain" width=100% src="https://raw.githubusercontent.com/pablloviana/pablloviana/main/home.png" /> -->
 &nbsp
 
 🖥️ Graduado em Design Digital pela FIEO, 2014 🎓<p>
