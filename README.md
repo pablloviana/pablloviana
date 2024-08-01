@@ -7,7 +7,8 @@ Acredito que arte e informação estão interligadas 📊👨‍💻.<p>
 
 Gosto de resolver desafios usando tecnologia. Sou acadêmico de Análise e Desenvolvimento de Sistemas pela FADESA 📚🖥️📝🎓 e, às vezes, utilizo minha criatividade para resolver problemas através da tecnologia 💼📊👨‍💻. Gosto de equilibrar minha carreira entre habilidades técnicas e gerenciais. Por isso, adquiri experiência liderando projetos e tenho uma constante curiosidade em melhorar 📋🔍📓📉📚.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:50px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablloviana&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablloviana&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<div  align="center" style="margin-bottom:50px"> 
 <img width=60% src="https://github-readme-streak-stats.herokuapp.com/?user=pablloviana&theme=dark&hide_border=true" />
 
  </div>
