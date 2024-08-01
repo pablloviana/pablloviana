@@ -17,8 +17,8 @@ Gosto de resolver desafios usando tecnologia. Sou acadêmico de Análise e Desen
 
 ## My Skills (Minhas Habilidades)
 
-#### Main Stack (Tecnologias Principais)
-👩‍💻IDE 🔝
+#### Main Stack (Tecnologias Principais) 👩‍💻IDE 🔝
+
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -36,7 +36,8 @@ Studying in this moment (Estudando neste momento):
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
-#### Databases: #### Tools (ferramentas):
+#### Databases:
+Tools (ferramentas):
 
 ![VScode](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
