@@ -2,13 +2,11 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<P>🖥️ Graduado em Design Digital pela FIEO 🎓.
-<P><p>Acredito que arte e informação estão interligadas 📊👨‍💻.</p></P>
+🖥️ Graduado em Design Digital pela FIEO, 2014 🎓</p>&nbsp;</p>&nbsp;
 
-- Eu ❤️ resolvo grandes desafios usando tecnologia.
-Sou acadêmico de Análise e Desenvolvimento de Sistemas pela FADESA 📚🖥️📝🎓, apaixonado por resolver problemas complexos através da tecnologia 💼📊👨‍💻.
-Gosto de equilibrar minha carreira entre habilidades técnicas e gerenciais.
-Por isso, adquiri experiência liderando projetos e tenho uma constante curiosidade em melhorar 📋🔍📓📉📚.</p>&nbsp;
+Acredito que arte e informação estão interligadas 📊👨‍💻.</p>&nbsp;
+
+Gosto de resolver desafios usando tecnologia. Sou acadêmico de Análise e Desenvolvimento de Sistemas pela FADESA 📚🖥️📝🎓 e, às vezes, utilizo minha criatividade para resolver problemas através da tecnologia 💼📊👨‍💻. Gosto de equilibrar minha carreira entre habilidades técnicas e gerenciais. Por isso, adquiri experiência liderando projetos e tenho uma constante curiosidade em melhorar 📋🔍📓📉📚.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
