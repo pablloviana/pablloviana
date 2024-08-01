@@ -44,4 +44,4 @@ Studying in this moment (Estudando neste momento):<p>
 <a href="[https://www.linkedin.com/in/pablloviana/])" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
 <a href="https://medium.com/@pablloviana" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> &nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://instagram.com/pablloviana_)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pablloviana_) &nbsp;</div>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://facebook.com/pabllovianaoliveira) &nbsp;</div>
