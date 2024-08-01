@@ -1,10 +1,9 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://raw.githubusercontent.com/pablloviana/pablloviana/main/home.png" />
-&nbsp;&nbsp;&nbsp;
+&nbsp
 
+🖥️ Graduado em Design Digital pela FIEO, 2014 🎓<p>
 
-🖥️ Graduado em Design Digital pela FIEO, 2014 🎓</p>&nbsp;</p>&nbsp;
-
-Acredito que arte e informação estão interligadas 📊👨‍💻.</p>&nbsp;
+Acredito que arte e informação estão interligadas 📊👨‍💻.<p>
 
 Gosto de resolver desafios usando tecnologia. Sou acadêmico de Análise e Desenvolvimento de Sistemas pela FADESA 📚🖥️📝🎓 e, às vezes, utilizo minha criatividade para resolver problemas através da tecnologia 💼📊👨‍💻. Gosto de equilibrar minha carreira entre habilidades técnicas e gerenciais. Por isso, adquiri experiência liderando projetos e tenho uma constante curiosidade em melhorar 📋🔍📓📉📚.</p>&nbsp;
 
