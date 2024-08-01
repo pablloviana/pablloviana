@@ -1,13 +1,15 @@
-🖥️ Graduado em Design Digital pela FIEO, 2014 🎓<p>
-
-Acredito que arte e informação estão interligadas 📊👨‍💻.<p>
-
-Gosto de resolver desafios usando tecnologia. Sou acadêmico de Análise e Desenvolvimento de Sistemas pela FADESA 📚🖥️📝🎓 e, às vezes, utilizo minha criatividade para resolver problemas através da tecnologia 💼📊👨‍💻. Gosto de equilibrar minha carreira entre habilidades técnicas e gerenciais. Por isso, adquiri experiência liderando projetos e tenho uma constante curiosidade em melhorar 📋🔍📓📉📚.</p>&nbsp;
 
 
 # 💫 About Me:
-Sou Pabllo Viana, um apaixonado por tecnologia e design, graduado em Design Digital e atualmente estudando Análise e Desenvolvimento de Sistemas na FADESA.<br><br>🖥️ Pilha Principal: Python, JavaScript, HTML, CSS<br>🔧 Pilha Secundária: SQL, MySQL, Adobe Illustrator, CorelDRAW<br>📚 Atualmente Estudando: Algoritmos Avançados, Desenvolvimento de Sistemas<br><br>💡 Adoro resolver desafios usando tecnologia e equilibrar habilidades técnicas e gerenciais. Tenho experiência em design gráfico, desenvolvimento de sistemas e suporte técnico, e estou sempre buscando aprimorar minhas habilidades e conhecimentos.<br><br>🔍 Sempre curioso e ansioso para aprender, busco me adaptar às novas tendências e inovações no campo da tecnologia.
 
+🖥️ Graduado em Design Digital pela FIEO, 2014 🎓<p>
+
+Acredito que arte e informação estão interligadas 📊👨‍💻. Sou acadêmico de Análise e Desenvolvimento de Sistemas pela FADESA 📚🖥️📝🎓 e, às vezes, utilizo minha criatividade para resolver problemas através da tecnologia 💼📊👨‍💻. Gosto de equilibrar minha carreira entre habilidades técnicas e gerenciais. Por isso, adquiri experiência liderando projetos e tenho uma constante curiosidade em melhorar 📋🔍📓📉📚.</p>&nbsp;Sou Pabllo Viana, um apaixonado por tecnologia e design, graduado em Design Digital e atualmente estudando Análise e Desenvolvimento de Sistemas na FADESA.<br><br>🖥️ Pilha Principal: Python, JavaScript, HTML, CSS<br>🔧 Pilha Secundária: SQL, MySQL, Adobe Illustrator, CorelDRAW<br>📚 Atualmente Estudando: Algoritmos Avançados, Desenvolvimento de Sistemas<br><br>💡 Adoro resolver desafios usando tecnologia e equilibrar habilidades técnicas e gerenciais. Tenho experiência em design gráfico, desenvolvimento de sistemas e suporte técnico, e estou sempre buscando aprimorar minhas habilidades e conhecimentos.<br><br>🔍 Sempre curioso e ansioso para aprender, busco me adaptar às novas tendências e inovações no campo da tecnologia.
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pablloviana&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pablloviana&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pablloviana&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -39,10 +41,7 @@ Studying in this moment (Estudando neste momento):
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pablloviana&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pablloviana&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pablloviana&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pabllovianaoliveira) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pablloviana_) 
