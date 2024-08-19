@@ -1,7 +1,11 @@
 # 💫 Sobre mim:
 
 🖥️ Graduado em Design Digital pela FIEO, 2014 🎓<p>
-Acredito que arte e informação estão interligadas 📊👨‍💻. Sou acadêmico de Análise e Desenvolvimento de Sistemas pela FADESA 📚🖥️📝🎓 e, às vezes, utilizo minha criatividade para resolver problemas através da tecnologia 💼📊👨‍💻. Gosto de equilibrar minha carreira entre habilidades técnicas e gerenciais. Por isso, adquiri experiência liderando projetos e tenho uma constante curiosidade em melhorar 📋🔍📓📉📚.</p>&nbsp;<br><br>🖥️ Pilha Principal: Python, JavaScript, HTML, CSS<br>🔧 Pilha Secundária: SQL, MySQL, QA, Automatização<br><br>💡 Gosto de resolver desafios usando tecnologia e equilibrar habilidades técnicas e gerenciais. Tenho experiência em design e suporte técnico, e estou sempre buscando aprimorar minhas habilidades e conhecimentos.<br>
+Acredito que arte e informação estão interligadas 📊👨‍💻. <br>
+Análise e Desenvolvimento de Sistemas📚🖥️📝🎓, às vezes, utilizo minha criatividade p/ solucinar problemas com a tecnologia 💼📊👨‍💻.
+<p>Gosto de equilibrar minha carreira entre habilidades técnicas e gerenciais. Por isso, adquiri experiência liderando projetos e tenho uma constante curiosidade em melhorar 📋🔍📓📉📚.</p>&nbsp;<br>
+<br>🖥️ Pilha Principal: Python, JavaScript, HTML, CSS
+<br>🔧 Pilha Secundária: SQL, MySQL, QA, Automatização<br><br>💡 Gosto de resolver desafios usando tecnologia e equilibrar habilidades técnicas e gerenciais. Tenho experiência em design e suporte técnico, e estou sempre buscando aprimorar minhas habilidades e conhecimentos.<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pablloviana&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
