@@ -4,8 +4,6 @@
 <p>Acredito que arte e informação estão interligadas 📊👨‍💻.</p>
 <p>Atualmente, em Análise e Desenvolvimento de Sistemas 📚🖥️📝🎓, uso minha criatividade para solucionar problemas tecnológicos 💼📊👨‍💻.</p>
 
-<p>Gosto de equilibrar minha carreira entre habilidades técnicas e gerenciais. Por isso, adquiri experiência liderando projetos e tenho uma constante curiosidade em melhorar 📋🔍📓📉📚.</p>
-
 <p><strong>🖥️ Pilha Principal:</strong> HTML, CSS, JavaScript, PHP, Python</p>
 <p><strong>🔧 Pilha Secundária:</strong> Java, MySQL, QA - Automatização</p>
 
