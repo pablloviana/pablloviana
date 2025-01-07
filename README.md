@@ -1,8 +1,4 @@
-<h2>💫 Sobre mim:</h2>
 
-<p><strong>🖥️ Graduado em Design Digital pela FIEO, 2014 🎓</strong></p>
-<p>Acredito que arte e informação estão interligadas 📊👨‍💻.</p>
-<p>Atualmente, em Análise e Desenvolvimento de Sistemas 📚🖥️📝🎓, uso minha criatividade para solucionar problemas tecnológicos 💼📊👨‍💻.</p>
 
 <p><strong>🖥️ Pilha Principal:</strong> HTML, CSS, JavaScript, PHP, Python</p>
 <p><strong>🔧 Pilha Secundária:</strong> Java, MySQL, QA - Automatização</p>
