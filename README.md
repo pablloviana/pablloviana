@@ -1,7 +1,7 @@
 <p><strong>🖥️ Pilha Principal:</strong> HTML, CSS, JavaScript, PHP, Python</p>
 <p><strong>🔧 Pilha Secundária:</strong> Java, MySQL, QA (Automatização), Go/Golang, Reacter.JS</p>
 
-<p><strong>💡 Gosto de resolver desafios com tecnologia, equilibrando habilidades técnicas e gerenciais. Tenho experiência em design.</strong></p>
+<p><strong>💡 Gosto de resolver desafios com tecnologia, unindo habilidades técnicas e visão estratégica. Tenho experiência em design e desenvolvimento de soluções eficientes.</strong></p>
 
 ---
 
